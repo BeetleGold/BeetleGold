@@ -51,7 +51,7 @@
 <a href="http://www.github.com/BeetleGold">
   <img height="173px" align="centr" src="https://github-readme-streak-stats.herokuapp.com/?user=BeetleGold&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
 </a>
-<img height="73px" align="centr" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BeetleGold&layout=compact&theme=vision-friendly-dark" />
+<img height="83px" align="centr" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BeetleGold&layout=compact&theme=vision-friendly-dark" />
 
 <!--
 **BeetleGold/BeetleGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
