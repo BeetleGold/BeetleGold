@@ -26,8 +26,8 @@
         <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
         </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="blender" width="40" height="40"/>
+        <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA" target="_blank" rel="noreferrer">
+          <img src="https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png" title="Maya" alt="maya" width="40" height="40"/>
         </a>
       </div>
     </td>
