@@ -17,7 +17,7 @@
       </div>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/ 🛠 - Tools:__________________________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ ⚡ - Tools:__________________________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a>
