@@ -34,7 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="unity" width="40" height="40"/>&nbsp;
   
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   </a>
 </div>
 
