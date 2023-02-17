@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/ 💻  - Languages:_______________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ 💻  - Languages:____________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
