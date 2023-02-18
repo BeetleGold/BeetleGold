@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/ 💻 - Languages:__________________________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ 💬 - Languages:__________________________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -17,18 +17,32 @@
       </div>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/ ⚡ - Tools:______________________________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ 💻 - Software:___________________________________________ -blueviolet" width="400" height="30"/>
+      <h3 align="left"></h3>
+      <div>
+        <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA" target="_blank" rel="noreferrer">
+          <img src="https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png" title="Maya" alt="maya" width="40" height="40"/>
+        </a>
+        <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/ ⚙️ - Game Engines:_______________________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a href="https://unity.com/unity-hub" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="unity" width="40" height="40"/>
         </a>
-        <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
-        </a>
-        <a href="https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA" target="_blank" rel="noreferrer">
-          <img src="https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png" title="Maya" alt="maya" width="40" height="40"/>
-        </a>
+      </div>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/ ⚡ - Other:______________________________________________ -blueviolet" width="400" height="30"/>
+      <h3 align="left"></h3>
+      <div>
         <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
           <img src="https://beautylux-cosmetics.com/image/cache/catalog/image/catalog/system/youtube-logo-new.webp" title="YouTube" alt="youtube" width="40" height="40"/>
         </a>
@@ -61,7 +75,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+<img src="https://img.shields.io/badge/ ⚙️ - GitHub статистика:__________________________________ -blueviolet" width="400" height="30"/>
 
 <a href="http://www.github.com/BeetleGold">
   <img height="173px" src="https://github-readme-stats.vercel.app/api?username=BeetleGold&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="BeetleGold's GitHub stats" />
