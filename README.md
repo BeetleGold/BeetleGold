@@ -84,7 +84,7 @@
       <h3 align="left"></h3>
       <div>
         <a href="https://play.unity.com/u/beetlegold" target="_blank" rel="noreferrer">
-          <img src="https://villastudio.ru/wp-content/uploads/2017/04/Verkor.png" title="UnityPlay" alt="unityplay" width="40" height="40" />
+          <img src="https://mlqyiglubtj2.i.optimole.com/gwFd4fw-DxP5cBIe/w:auto/h:auto/q:90/https://2cano.tech/wp-content/uploads/2020/03/Unity.png" title="UnityPlay" alt="unityplay" width="40" height="40" />
         </a>
       </div>
     </td>
