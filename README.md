@@ -62,19 +62,34 @@
 
 ---
 
-<img src="https://img.shields.io/badge/ 💬 - Socials:____________________________________________ -blueviolet" width="400" height="30"/>
-
-<p align="left"> 
-  <a href="https://www.github.com/BeetleGold" target="_blank" rel="noreferrer">
-    <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-1024.png" title="GitHub" alt="GitHub" width="40" height="40" />
-  </a>
-  <a href="https://discord.com/users/BeetleGold#6409" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" alt="discord" width="40" height="40" />
-  </a>
-  <a href="https://www.youtube.com/c/Beetlegold" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" title="YouTube" alt="youtube" width="40" height="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/ 💬 - Socials:____________________________________________ -blueviolet" width="400" height="30"/>
+      <h3 align="left"></h3>
+      <div>
+        <a href="https://www.github.com/BeetleGold" target="_blank" rel="noreferrer">
+          <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-1024.png" title="GitHub" alt="GitHub" width="40" height="40" />
+        </a>
+        <a href="https://discord.com/users/BeetleGold#6409" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" alt="discord" width="40" height="40" />
+        </a>
+        <a href="https://www.youtube.com/c/Beetlegold" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" title="YouTube" alt="youtube" width="40" height="40" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/ 💻 - My Games:___________________________________________ -blueviolet" width="400" height="30"/>
+      <h3 align="left"></h3>
+      <div>
+        <a href="https://play.unity.com/u/beetlegold" target="_blank" rel="noreferrer">
+          <img src="https://villastudio.ru/wp-content/uploads/2017/04/Verkor.png" title="UnityPlay" alt="unityplay" width="40" height="40" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
