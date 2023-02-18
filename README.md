@@ -1,4 +1,7 @@
 ### Hi! My name is BeetleGold
+
+---
+
 <h3 align="center">...</h3>
 
 ---
