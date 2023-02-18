@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/ 💻  - Languages:____________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ 💻 - Languages:__________________________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -17,7 +17,7 @@
       </div>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/ ⚡ - Tools:__________________________________________ -blueviolet" width="400" height="30"/>
+      <img src="https://img.shields.io/badge/ ⚡ - Tools:______________________________________________ -blueviolet" width="400" height="30"/>
       <h3 align="left"></h3>
       <div>
         <a href="https://unity.com/unity-hub" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@
           <img src="https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png" title="Maya" alt="maya" width="40" height="40"/>
         </a>
         <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
-          <img src="https://kancopt.by/image/cache/catalog/multi/rus-bumaga-ofisnaya/IMGbd1ada79c27d77bb24d2a9c4ba2efdd8-1200x800.png" title="YouTube" alt="YouTube" width="57" height="40"/>
+          <img src="https://kancopt.by/image/cache/catalog/multi/rus-bumaga-ofisnaya/IMGbd1ada79c27d77bb24d2a9c4ba2efdd8-1200x800.png" title="YouTube" alt="youtube" width="57" height="40"/>
         </a>
       </div>
     </td>
@@ -39,9 +39,25 @@
 
 ---
 
-<h3 align="left">💻 Codewars:</h3>
+<img src="https://img.shields.io/badge/ 💻 - Codewars:___________________________________________ -blueviolet" width="400" height="30"/>
 
 ![codewars](https://www.codewars.com/users/BeetleGold/badges/large)
+
+---
+
+<img src="https://img.shields.io/badge/ 💬 - Socials:____________________________________________ -blueviolet" width="400" height="30"/>
+
+<p align="left"> 
+  <a href="https://www.github.com/BeetleGold" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" title="GitHub" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://discord.com/users/BeetleGold#6409" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" alt="discord" width="40" height="40" />
+  </a>
+  <a href="https://www.youtube.com/c/Beetlegold" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" title="YouTube" alt="youtube" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
