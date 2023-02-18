@@ -30,7 +30,7 @@
           <img src="https://i.pinimg.com/originals/4a/bf/51/4abf5146283e1609eeeae16335666564.png" title="Maya" alt="maya" width="40" height="40"/>
         </a>
         <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
-          <img src="https://kancopt.by/image/cache/catalog/multi/rus-bumaga-ofisnaya/IMGbd1ada79c27d77bb24d2a9c4ba2efdd8-1200x800.png" title="YouTube" alt="youtube" width="57" height="40"/>
+          <img src="https://beautylux-cosmetics.com/image/cache/catalog/image/catalog/system/youtube-logo-new.webp" title="YouTube" alt="youtube" width="40" height="40"/>
         </a>
       </div>
     </td>
