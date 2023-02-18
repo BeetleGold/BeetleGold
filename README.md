@@ -58,7 +58,7 @@
 
 <img src="https://img.shields.io/badge/ 💻 - Codewars:___________________________________________ -blueviolet" width="400" height="30"/>
 
-![codewars](https://www.codewars.com/users/BeetleGold/badges/large)
+  ![codewars](https://www.codewars.com/users/BeetleGold/badges/large)
 
 ---
 
