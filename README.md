@@ -35,7 +35,7 @@
       <h3 align="left"></h3>
       <div>
         <a href="https://unity.com/unity-hub" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="unity" width="40" height="40"/>
+          <img src="https://mlqyiglubtj2.i.optimole.com/gwFd4fw-DxP5cBIe/w:auto/h:auto/q:90/https://2cano.tech/wp-content/uploads/2020/03/Unity.png" title="Unity" alt="unity" width="40" height="40"/>
         </a>
       </div>
     </td>
@@ -63,7 +63,7 @@
 
 <p align="left"> 
   <a href="https://www.github.com/BeetleGold" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" title="GitHub" alt="GitHub" width="40" height="40" />
+    <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-1024.png" title="GitHub" alt="GitHub" width="40" height="40" />
   </a>
   <a href="https://discord.com/users/BeetleGold#6409" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" title="Discord" alt="discord" width="40" height="40" />
